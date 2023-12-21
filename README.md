@@ -43,7 +43,7 @@ Professional GPUs:
 |Tesla H800|80G|164ms|13ms|12ms|
 |RTX A4000|16G|392ms|165ms|162ms|
 |RTX A5000|24G|533ms|99ms|96ms|
-|Tesla P100|16G|1140ms|267ms|1400ms|
+|Tesla P100|16G|1020ms|1130ms|1400ms|
 
 (The data of Tesla P100 is inferred from network data instead of the test.)
 
