@@ -45,8 +45,6 @@ Professional GPUs:
 |RTX A5000|24G|533ms|99ms|96ms|
 |Tesla P100|16G|1020ms|1130ms|1400ms|
 
-(The data of Tesla P100 is inferred from network data instead of the test.)
-
 ---
 
 Source of test card:  
